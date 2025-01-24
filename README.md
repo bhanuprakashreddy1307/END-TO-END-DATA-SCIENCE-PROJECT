@@ -94,3 +94,13 @@ Scalable architecture using cloud services and containerization
 Conclusion:
 The NBA Games API built with FastAPI offers a powerful and efficient solution for accessing NBA-related data. Whether for sports fans, data analysts, or developers, this project provides valuable insights and enables seamless integration into various applications.
 
+*OUTPUT* :
+![Image](https://github.com/user-attachments/assets/e75e0f93-863c-4ed8-be15-9cc5f158c7e0)
+
+![Image](https://github.com/user-attachments/assets/27726915-941e-4921-9c0f-3f2eb8ebd838)
+
+![Image](https://github.com/user-attachments/assets/dea278fe-054d-4d5f-bd2a-7516a07dd7ae)
+
+![Image](https://github.com/user-attachments/assets/a9595912-9f68-4dbf-9560-99be09d51e08)
+
+![Image](https://github.com/user-attachments/assets/5b0d5992-9879-427e-b014-9f11cbbb08ec)
